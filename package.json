@@ -22,12 +22,14 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
-    "commander": "^11.0.0",
-    "inquirer": "^8.2.5",
+    "child_process": "^1.0.2",
+    "commander": "^11.1.0",
+    "fs-extra": "^11.3.2",
+    "inquirer": "^8.2.7",
+    "mysql2": "^3.15.3",
     "ora": "^5.4.1",
-    "shelljs": "^0.8.5",
-    "mysql2": "^3.6.0",
-    "fs-extra": "^11.1.1"
+    "semver": "^7.7.3",
+    "shelljs": "^0.8.5"
   },
   "engines": {
     "node": ">=14.0.0"
