@@ -1,0 +1,43 @@
+{
+  "name": "laravel-angular-starter",
+  "version": "1.0.0",
+  "description": "CLI tool to generate full-stack projects with Laravel backend and Angular frontend",
+  "main": "src/index.js",
+  "bin": {
+    "create-laravel-angular": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "laravel",
+    "angular",
+    "fullstack",
+    "cli",
+    "generator",
+    "boilerplate",
+    "starter"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.0.0",
+    "inquirer": "^8.2.5",
+    "ora": "^5.4.1",
+    "shelljs": "^0.8.5",
+    "mysql2": "^3.6.0",
+    "fs-extra": "^11.1.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuusuario/laravel-angular-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tuusuario/laravel-angular-starter/issues"
+  },
+  "homepage": "https://github.com/tuusuario/laravel-angular-starter#readme"
+}
