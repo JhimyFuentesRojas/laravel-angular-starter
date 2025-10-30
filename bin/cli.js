@@ -13,8 +13,8 @@ const { startServers } = require('../src/index');
 
 console.log(chalk.cyan.bold(`
 ╔══════════════════════════════════════════════════════╗
-║  Laravel + Angular Full-Stack Project Generator     ║
-║  Creación automatizada de proyectos profesionales   ║
+║  Laravel + Angular Full-Stack Generador de proyectos ║
+║  Creación automatizada de proyectos profesionales    ║
 ╚══════════════════════════════════════════════════════╝
 `));
 
